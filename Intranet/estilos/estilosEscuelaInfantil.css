@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* HEADER */
+#contenedor-logo-titulo{
+    background-color: #28BAE5;
+ }
+
+
+ /* PAGINAS CARTELERA-DIARIO */
+/* SECCION CAROUSEL */
+#carousel{
+    background-color: #f2f3f4;
+    height: 100vh;
+}
+
+/* PAGINA QUIENES SOMOS*/
+#contgeneral{
+    background-color: #f2f3f4;
+}
+#parrafos{
+    background-color: #f2f3f4;
+}
